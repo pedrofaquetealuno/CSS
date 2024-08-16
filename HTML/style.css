@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+
+h1{
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Bebas+Neue&display=swap');
+  h2 {
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  header{
+    background: #FFC2C6;
+  }
+  body{
+    background: linear-gradient(to bottom, #EA202C,#E26F77);
+    height: 100vh
+
+  
+    ;
+}
+.img{
+    position: absolute;
+    left: 600px;
+    top: 200px;
+    border-radius: 50px;
+}
+    
+
+  
